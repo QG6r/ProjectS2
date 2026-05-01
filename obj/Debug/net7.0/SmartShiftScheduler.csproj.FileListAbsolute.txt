@@ -1,0 +1,14 @@
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\SmartShiftScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\SmartShiftScheduler.AssemblyInfoInputs.cache
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\SmartShiftScheduler.AssemblyInfo.cs
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\SmartShiftScheduler.csproj.CoreCompileInputs.cache
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\bin\Debug\net7.0\SmartShiftScheduler.exe
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\bin\Debug\net7.0\SmartShiftScheduler.deps.json
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\bin\Debug\net7.0\SmartShiftScheduler.runtimeconfig.json
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\bin\Debug\net7.0\SmartShiftScheduler.dll
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\bin\Debug\net7.0\SmartShiftScheduler.pdb
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\SmartShiftScheduler.dll
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\refint\SmartShiftScheduler.dll
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\SmartShiftScheduler.pdb
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\SmartShiftScheduler.genruntimeconfig.cache
+C:\Users\ufar\Downloads\SmartShiftScheduler\SmartShiftScheduler\SmartShiftScheduler\obj\Debug\net7.0\ref\SmartShiftScheduler.dll
